@@ -1,21 +1,23 @@
 .attribution {
   font-size: 11px;
   text-align: center;
+  padding-top: 55px;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
 
 body {
-  font-family: "Zen Maru Gothic", sans-serif;
+  font-family: "Outfit", sans-serif;
   background-color: hsl(212, 45%, 89%);
 }
 
-h2 {
+h1 {
   font-weight: 700;
   text-align: center;
-  font-size: 21px;
-  margin: 20px 0;
+  font-size: 22px;
+  margin: 15px 0;
+  color: hsl(218, 44%, 22%);
 }
 
 p {
@@ -23,23 +25,24 @@ p {
   font-size: 15px;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
-  padding: 0px;
+  padding: 0 10px;
+  font-style: bold;
 }
 
 img {
   max-width: 100%;
   width: 450px;
-  border-radius: 9px;
+  border-radius: 15px;
   margin: auto;
 }
 
 .qr-card-content {
-  box-shadow: rgb(37 39 89 / 8%) 0px 8px 8px 0;
+  box-shadow: rgb(37 39 89 / 8%) 0px 10px 9px 0;
   background-image: transparent !important;
-  background-color: #fefcfc;
-  border-radius: 13px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 15px;
   color: black;
-  width: 20%;
+  width: 23%;
   padding: 20px;
   margin: 50px auto;
 }
