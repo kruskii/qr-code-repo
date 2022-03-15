@@ -15,7 +15,7 @@ body {
 h1 {
   font-weight: 700;
   text-align: center;
-  font-size: 22px;
+  font-size: 23px;
   margin: 15px 0;
   color: hsl(218, 44%, 22%);
 }
@@ -32,7 +32,7 @@ p {
 img {
   max-width: 100%;
   width: 450px;
-  border-radius: 15px;
+  border-radius: 11px;
   margin: auto;
 }
 
